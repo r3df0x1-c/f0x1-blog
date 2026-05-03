@@ -1,0 +1,156 @@
+baseURL = "/"
+title = "🦊 R3dF0x1 | Tracks & Hacks"
+theme = "PaperMod"
+
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+
+enableRobotsTXT = true
+enableEmoji = true
+pygmentsUseClasses = true
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+# ============ IDIOMAS ============
+[languages]
+  [languages.es]
+    languageName = "ES"
+    weight = 1
+    title = "🦊 R3dF0x1 | Tracks & Hacks"
+    [languages.es.params]
+      description = "Walkthroughs, reportes y tips de pentesting"
+      
+    [[languages.es.menu.main]]
+      identifier = "walkthroughs"
+      name = "Walkthroughs"
+      url = "/walkthroughs/"
+      weight = 10
+    [[languages.es.menu.main]]
+      identifier = "road-to-ejpt"
+      name = "→ Road to eJPTv2"
+      url = "/walkthroughs/road-to-ejpt/"
+      parent = "walkthroughs"
+      weight = 11
+    [[languages.es.menu.main]]
+      identifier = "road-to-cjca"
+      name = "→ Road to CJCA"
+      url = "/walkthroughs/road-to-cjca/"
+      parent = "walkthroughs"
+      weight = 12
+    [[languages.es.menu.main]]
+      identifier = "reportes"
+      name = "Reportes"
+      url = "/reportes/"
+      weight = 20
+    [[languages.es.menu.main]]
+      identifier = "tips"
+      name = "f0x1Tips"
+      url = "/tips/"
+      weight = 30
+    [[languages.es.menu.main]]
+      identifier = "whoami"
+      name = "whoami"
+      url = "/whoami/"
+      weight = 40
+
+  [languages.en]
+    languageName = "EN"
+    weight = 2
+    title = "🦊 R3dF0x1 | Tracks & Hacks"
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "Walkthroughs, reports and pentesting tips"
+
+    [[languages.en.menu.main]]
+      identifier = "walkthroughs"
+      name = "Walkthroughs"
+      url = "/en/walkthroughs/"
+      weight = 10
+    [[languages.en.menu.main]]
+      identifier = "road-to-ejpt"
+      name = "→ Road to eJPTv2"
+      url = "/en/walkthroughs/road-to-ejpt/"
+      parent = "walkthroughs"
+      weight = 11
+    [[languages.en.menu.main]]
+      identifier = "road-to-cjca"
+      name = "→ Road to CJCA"
+      url = "/en/walkthroughs/road-to-cjca/"
+      parent = "walkthroughs"
+      weight = 12
+    [[languages.en.menu.main]]
+      identifier = "reports"
+      name = "Reports"
+      url = "/en/reports/"
+      weight = 20
+    [[languages.en.menu.main]]
+      identifier = "tips"
+      name = "f0x1Tips"
+      url = "/en/tips/"
+      weight = 30
+    [[languages.en.menu.main]]
+      identifier = "whoami"
+      name = "whoami"
+      url = "/en/whoami/"
+      weight = 40
+
+# ============ PARAMETROS DEL TEMA ============
+[params]
+  env = "production"
+  author = "r3df0x1-c"
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+  disableSpecial1stPost = false
+  comments = false
+  mainSections = ["none"]
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/r3df0x1-c"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/christian-servin-ruiz/"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/R3dF0x1c"
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@R3dF0x1-c"
+
+  [[params.socialIcons]]
+    name = "twitch"
+    url = "https://www.twitch.tv/r3d_f0x1"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+# ============ RESALTADO DE CODIGO ============
+[markup]
+  [markup.highlight]
+    style = "github-dark"
+    lineNos = false
+    codeFences = true
+    guessSyntax = true
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# ============ SALIDA RSS/JSON ============
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
