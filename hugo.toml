@@ -28,34 +28,34 @@ pygmentsUseClasses = true
     [[languages.es.menu.main]]
       identifier = "walkthroughs"
       name = "Walkthroughs"
-      pageRef = "/walkthroughs/"
+      url = "walkthroughs/"
       weight = 10
     [[languages.es.menu.main]]
       identifier = "road-to-ejpt"
       name = "→ Road to eJPTv2"
-      pageRef = "/walkthroughs/road-to-ejpt/"
+      url = "walkthroughs/road-to-ejpt/"
       parent = "walkthroughs"
       weight = 11
     [[languages.es.menu.main]]
       identifier = "road-to-cjca"
       name = "→ Road to CJCA"
-      pageRef = "/walkthroughs/road-to-cjca/"
+      url = "walkthroughs/road-to-cjca/"
       parent = "walkthroughs"
       weight = 12
     [[languages.es.menu.main]]
       identifier = "reportes"
       name = "Reportes"
-      pageRef = "/reportes/"
+      url = "reportes/"
       weight = 20
     [[languages.es.menu.main]]
       identifier = "tips"
       name = "f0x1Tips"
-      pageRef = "/tips/"
+      url = "tips/"
       weight = 30
     [[languages.es.menu.main]]
       identifier = "whoami"
       name = "whoami"
-      pageRef = "/whoami/"
+      url = "whoami/"
       weight = 40
 
   [languages.en]
@@ -69,34 +69,34 @@ pygmentsUseClasses = true
     [[languages.en.menu.main]]
       identifier = "walkthroughs"
       name = "Walkthroughs"
-      pageRef = "/walkthroughs/"
+      url = "en/walkthroughs/"
       weight = 10
     [[languages.en.menu.main]]
       identifier = "road-to-ejpt"
       name = "→ Road to eJPTv2"
-      pageRef = "/walkthroughs/road-to-ejpt/"
+      url = "en/walkthroughs/road-to-ejpt/"
       parent = "walkthroughs"
       weight = 11
     [[languages.en.menu.main]]
       identifier = "road-to-cjca"
       name = "→ Road to CJCA"
-      pageRef = "/walkthroughs/road-to-cjca/"
+      url = "en/walkthroughs/road-to-cjca/"
       parent = "walkthroughs"
       weight = 12
     [[languages.en.menu.main]]
       identifier = "reports"
       name = "Reports"
-      pageRef = "/reports/"
+      url = "en/reports/"
       weight = 20
     [[languages.en.menu.main]]
       identifier = "tips"
       name = "f0x1Tips"
-      pageRef = "/tips/"
+      url = "en/tips/"
       weight = 30
     [[languages.en.menu.main]]
       identifier = "whoami"
       name = "whoami"
-      pageRef = "/whoami/"
+      url = "en/whoami/"
       weight = 40
 
 # ============ PARAMETROS DEL TEMA ============
@@ -138,7 +138,7 @@ pygmentsUseClasses = true
 
   [[params.socialIcons]]
     name = "rss"
-    url = "/index.xml"
+    url = "index.xml"
 
 # ============ RESALTADO DE CODIGO ============
 [markup]
