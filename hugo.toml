@@ -24,38 +24,38 @@ pygmentsUseClasses = true
     title = "🦊 R3dF0x1 | Tracks & Hacks"
     [languages.es.params]
       description = "Walkthroughs, reportes y tips de pentesting"
-      
+
     [[languages.es.menu.main]]
       identifier = "walkthroughs"
       name = "Walkthroughs"
-      url = "/walkthroughs/"
+      pageRef = "/walkthroughs/"
       weight = 10
     [[languages.es.menu.main]]
       identifier = "road-to-ejpt"
       name = "→ Road to eJPTv2"
-      url = "/walkthroughs/road-to-ejpt/"
+      pageRef = "/walkthroughs/road-to-ejpt/"
       parent = "walkthroughs"
       weight = 11
     [[languages.es.menu.main]]
       identifier = "road-to-cjca"
       name = "→ Road to CJCA"
-      url = "/walkthroughs/road-to-cjca/"
+      pageRef = "/walkthroughs/road-to-cjca/"
       parent = "walkthroughs"
       weight = 12
     [[languages.es.menu.main]]
       identifier = "reportes"
       name = "Reportes"
-      url = "/reportes/"
+      pageRef = "/reportes/"
       weight = 20
     [[languages.es.menu.main]]
       identifier = "tips"
       name = "f0x1Tips"
-      url = "/tips/"
+      pageRef = "/tips/"
       weight = 30
     [[languages.es.menu.main]]
       identifier = "whoami"
       name = "whoami"
-      url = "/whoami/"
+      pageRef = "/whoami/"
       weight = 40
 
   [languages.en]
@@ -69,34 +69,34 @@ pygmentsUseClasses = true
     [[languages.en.menu.main]]
       identifier = "walkthroughs"
       name = "Walkthroughs"
-      url = "/en/walkthroughs/"
+      pageRef = "/walkthroughs/"
       weight = 10
     [[languages.en.menu.main]]
       identifier = "road-to-ejpt"
       name = "→ Road to eJPTv2"
-      url = "/en/walkthroughs/road-to-ejpt/"
+      pageRef = "/walkthroughs/road-to-ejpt/"
       parent = "walkthroughs"
       weight = 11
     [[languages.en.menu.main]]
       identifier = "road-to-cjca"
       name = "→ Road to CJCA"
-      url = "/en/walkthroughs/road-to-cjca/"
+      pageRef = "/walkthroughs/road-to-cjca/"
       parent = "walkthroughs"
       weight = 12
     [[languages.en.menu.main]]
       identifier = "reports"
       name = "Reports"
-      url = "/en/reports/"
+      pageRef = "/reports/"
       weight = 20
     [[languages.en.menu.main]]
       identifier = "tips"
       name = "f0x1Tips"
-      url = "/en/tips/"
+      pageRef = "/tips/"
       weight = 30
     [[languages.en.menu.main]]
       identifier = "whoami"
       name = "whoami"
-      url = "/en/whoami/"
+      pageRef = "/whoami/"
       weight = 40
 
 # ============ PARAMETROS DEL TEMA ============

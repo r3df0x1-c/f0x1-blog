@@ -1,5 +1,5 @@
 ---
-title: "R3dF0x1 | Tracks & Hacks"
+title: "🦊 R3dF0x1 | Tracks & Hacks"
 ---
 
 ## `whoami`
@@ -12,7 +12,7 @@ Pentester in training. **eJPT** certified, **CJCA** in progress. Here I document
 
 Documentation organized by certification. Each series covers the machines, concepts, and tools needed to prepare for a specific exam.
 
-### 🎯 [Road to eJPTv2](/en/walkthroughs/road-to-ejpt/)
+### 🎯 [Road to eJPTv2]({{< relref "walkthroughs/road-to-ejpt" >}})
 
 16 TryHackMe machines I used to prepare for and pass the **eJPTv2**. Full coverage of enumeration, web, SMB, bruteforce, and privesc.
 
@@ -20,7 +20,7 @@ Documentation organized by certification. Each series covers the machines, conce
 
 ---
 
-### 🛡️ [Road to CJCA](/en/walkthroughs/road-to-cjca/)
+### 🛡️ [Road to CJCA]({{< relref "walkthroughs/road-to-cjca" >}})
 
 Machines and Sherlocks used to prepare for the **Certified Junior Cybersecurity Analyst** from HackTheBox. Defensive focus: DFIR, traffic analysis, and professional reporting.
 
