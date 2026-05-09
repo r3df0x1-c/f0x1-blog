@@ -30,4 +30,4 @@ Máquinas y Sherlocks utilizados para preparación de la **Certified Junior Cybe
 
 ### Próximamente
 
-Conforme avance en mi camino como pentester, agregaré nuevas series por certificación. Las próximas en el roadmap incluyen OSCP y eWPT.
+Conforme avance en mi camino como pentester, agregaré nuevas series por certificación. Las próximas en el roadmap incluyen CPTS y eventualmente la joya de de la corona OSCP.
