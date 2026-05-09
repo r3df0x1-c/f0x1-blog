@@ -30,4 +30,4 @@ Machines and Sherlocks used to prepare for the **Certified Junior Cybersecurity 
 
 ### Coming soon
 
-As I progress in my pentester journey, I'll add new series by certification. Next in the roadmap: OSCP and eWPT.
+As I progress in my pentester journey, I'll add new series by certification. Next in the roadmap: CPTS and eventually, the jewel in the crown, OSCP.
