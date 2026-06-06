@@ -6,7 +6,7 @@ ShowToc: false
 
 ## Sobre esta serie
 
-Esta es la colección de **16 máquinas de TryHackMe** que documenté durante mi preparación para la **eJPTv2** (eLearnSecurity Junior Penetration Tester v2). Las resolví en orden progresivo, cubriendo todos los temas que aparecen en el examen: enumeración, web, SMB, bruteforce, escalada de privilegios y pivoting básico.
+Esta es la colección de **15 máquinas de TryHackMe** que documenté durante mi preparación para la **eJPTv2** (eLearnSecurity Junior Penetration Tester v2). Las resolví en orden progresivo, cubriendo todos los temas que aparecen en el examen: enumeración, web, SMB, bruteforce, escalada de privilegios y pivoting básico.
 
 Cada walkthrough incluye:
 

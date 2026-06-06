@@ -14,9 +14,9 @@ Documentación organizada por certificación. Cada serie cubre las máquinas, co
 
 ### 🎯 [Road to eJPTv2]({{< relref "walkthroughs/road-to-ejpt" >}})
 
-16 máquinas de TryHackMe que utilicé para preparar y aprobar la **eJPTv2**. Cobertura completa de enumeración, web, SMB, bruteforce y privesc.
+15 máquinas de TryHackMe que utilicé para preparar y aprobar la **eJPTv2**. Cobertura completa de enumeración, web, SMB, bruteforce y privesc.
 
-**Estado:** ✅ En migración desde Obsidian | **Plataforma:** TryHackMe
+**Estado:** ✅ Ruta Completa | **Plataforma:** TryHackMe
 
 ---
 
@@ -24,7 +24,7 @@ Documentación organizada por certificación. Cada serie cubre las máquinas, co
 
 Máquinas y Sherlocks utilizados para preparación de la **Certified Junior Cybersecurity Analyst** de HackTheBox. Enfoque defensivo: DFIR, análisis de tráfico y reporting profesional.
 
-**Estado:** ✅ Completado | **Plataforma:** HackTheBox
+**Estado:** ✅ En migración desde Obsidian | **Plataforma:** HackTheBox
 
 ---
 
