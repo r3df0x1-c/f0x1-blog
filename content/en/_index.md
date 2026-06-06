@@ -4,7 +4,7 @@ title: "🦊 R3dF0x1 | Tracks & Hacks"
 
 ## `whoami`
 
-Pentester in training. **eJPT** certified, **CJCA** in progress. Here I document my journey: THM/HTB walkthroughs, pentesting reports, and tool tips. Bilingual ES/EN.
+Pentester in training. **eJPT** certified, **CJCA** certified. Here I document my journey: THM/HTB walkthroughs, pentesting reports, and tool tips. Bilingual ES/EN.
 
 ---
 
@@ -24,7 +24,7 @@ Documentation organized by certification. Each series covers the machines, conce
 
 Machines and Sherlocks used to prepare for the **Certified Junior Cybersecurity Analyst** from HackTheBox. Defensive focus: DFIR, traffic analysis, and professional reporting.
 
-**Status:** 🔄 In progress | **Platform:** HackTheBox
+**Status:** ✅ Completed | **Platform:** HackTheBox
 
 ---
 

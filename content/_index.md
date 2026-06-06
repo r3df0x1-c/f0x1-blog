@@ -4,7 +4,7 @@ title: "🦊 R3dF0x1 | Tracks & Hacks"
 
 ## `whoami`
 
-Pentester en formación. **eJPT** certificado, **CJCA** en proceso. Aquí documento mi camino: walkthroughs de THM/HTB, reportes de pentesting y tips sobre herramientas. Bilingüe ES/EN.
+Pentester en formación. **eJPT** certificado, **CJCA** certificado. Aquí documento mi camino: walkthroughs de THM/HTB, reportes de pentesting y tips sobre herramientas. Bilingüe ES/EN.
 
 ---
 
@@ -24,10 +24,10 @@ Documentación organizada por certificación. Cada serie cubre las máquinas, co
 
 Máquinas y Sherlocks utilizados para preparación de la **Certified Junior Cybersecurity Analyst** de HackTheBox. Enfoque defensivo: DFIR, análisis de tráfico y reporting profesional.
 
-**Estado:** 🔄 En proceso | **Plataforma:** HackTheBox
+**Estado:** ✅ Completado | **Plataforma:** HackTheBox
 
 ---
 
 ### Próximamente
 
-Conforme avance en mi camino como pentester, agregaré nuevas series por certificación. Las próximas en el roadmap incluyen CPTS y eventualmente la joya de de la corona OSCP.
+Conforme avance en mi camino como pentester, agregaré nuevas series por certificación. Las próximas en el roadmap incluyen CPTS y eventualmente la joya de la corona OSCP.

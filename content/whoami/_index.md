@@ -10,7 +10,7 @@ Pentester en formación basado en México 🇲🇽
 ## Certificaciones
 
 - ✅ **eJPT** — eLearnSecurity Junior Penetration Tester
-- 🔄 **CJCA** — Certified Junior Cybersecurity Analyst (en proceso)
+- ✅ **CJCA** — Certified Junior Cybersecurity Analyst
 
 ## Stack
 
